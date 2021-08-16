@@ -1,0 +1,11 @@
+div with class: d47
+then go to div d53 after that is A href
+
+d14 -> d38
+
+table class d48 -> then tr first a href
+
+div class mI ->img src
+
+
+
