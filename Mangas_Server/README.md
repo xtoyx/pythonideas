@@ -2,7 +2,7 @@
 Its About a script that brrow pages / images from a server and download it 
 ## Adding Features :
 ### -No Duplicates Of Text  in Image Or Image Done <br/>
-### -Compress all this data to something small then uncompress it <br/>
+### -remove watermark
 This Will Have The Webscript for https://mangareader.tv
 
   
